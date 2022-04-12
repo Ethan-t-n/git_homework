@@ -5,3 +5,4 @@ I will preview all sessions to be a little bit more ahead to avoid possible stru
 Shoutout to my friend artsiom for giving me some knowledge on ```
 
 ```
+So far, everything seems to be fine. I just need more practice on git commands and understanding what they do
